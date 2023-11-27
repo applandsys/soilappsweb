@@ -27,53 +27,53 @@
     </section>
     <!-- End Masthead -->
 
-{{--    <!-- Start Section -->--}}
-{{--    <section class="section pb-40">--}}
-{{--        <div class="container">--}}
-{{--            <div class="row">--}}
-{{--                <div class="col-lg-6 offset-lg-3">--}}
-{{--                    <h2 class="section__heading section__heading-center">We are build awesome marketing template</h2>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--            <div class="row">--}}
-{{--                <div class="col-lg-8 offset-lg-2 text-center mb-40">--}}
-{{--                    <p>--}}
-{{--                        Et odio honestatis ius. Exerci numquam consequuntur no mei. Ut sed ornatus tibique, fabellas pertinax est cu. Te odio omittam mea, ea tractatos dissentiunt complectitur nec. Liber voluptatum ad vis.--}}
-{{--                    </p>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--            <div class="row">--}}
-{{--                <div class="col-lg-4">--}}
-{{--                    <div class="section__column text-center">--}}
-{{--                        <span class="icon icon-download icon-lg"></span>--}}
-{{--                        <h3>Download free</h3>--}}
-{{--                        <p>--}}
-{{--                            Unum liber commune in mel, ut pri tritani propriae menandri. Cum et magna porro intellegat ex his verear malorum, has repudiandae.--}}
-{{--                        </p>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--                <div class="col-lg-4">--}}
-{{--                    <div class="section__column text-center">--}}
-{{--                        <span class="icon icon-cogs icon-lg"></span>--}}
-{{--                        <h3>Install software</h3>--}}
-{{--                        <p>--}}
-{{--                            Unum liber commune in mel, ut pri tritani propriae menandri. Cum et magna porro intellegat ex his verear malorum, has repudiandae.--}}
-{{--                        </p>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--                <div class="col-lg-4">--}}
-{{--                    <div class="section__column text-center">--}}
-{{--                        <span class="icon icon-wallet icon-lg"></span>--}}
-{{--                        <h3>Buy licence</h3>--}}
-{{--                        <p>--}}
-{{--                            Unum liber commune in mel, ut pri tritani propriae menandri. Cum et magna porro intellegat ex his verear malorum, has repudiandae.--}}
-{{--                        </p>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </section>--}}
-{{--    <!-- End Section -->--}}
+    <!-- Start Section -->
+    <section class="section pb-40">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 offset-lg-3">
+                    <h2 class="section__heading section__heading-center">We are build awesome marketing template</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 text-center mb-40">
+                    <p>
+                        Et odio honestatis ius. Exerci numquam consequuntur no mei. Ut sed ornatus tibique, fabellas pertinax est cu. Te odio omittam mea, ea tractatos dissentiunt complectitur nec. Liber voluptatum ad vis.
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="section__column text-center">
+                        <span class="icon icon-download icon-lg"></span>
+                        <h3>Download free</h3>
+                        <p>
+                            Unum liber commune in mel, ut pri tritani propriae menandri. Cum et magna porro intellegat ex his verear malorum, has repudiandae.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="section__column text-center">
+                        <span class="icon icon-cogs icon-lg"></span>
+                        <h3>Install software</h3>
+                        <p>
+                            Unum liber commune in mel, ut pri tritani propriae menandri. Cum et magna porro intellegat ex his verear malorum, has repudiandae.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="section__column text-center">
+                        <span class="icon icon-wallet icon-lg"></span>
+                        <h3>Buy licence</h3>
+                        <p>
+                            Unum liber commune in mel, ut pri tritani propriae menandri. Cum et magna porro intellegat ex his verear malorum, has repudiandae.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Section -->
 
 {{--    <!-- Start Section -->--}}
 {{--    <section class="section section__gray pb-0">--}}
